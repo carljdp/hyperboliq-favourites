@@ -6,7 +6,7 @@
 ## Development Progress
 
 ### Boilerplate & Scaffolding
-  - [ ] create-react-app
+  - [x] create-react-app
   - [ ] react-bootstrap
   - [ ] react-easy-peasy
 
