@@ -1,0 +1,7 @@
+.darkenCardImg {
+    background: rgb(0,0,0) !important;
+    background: -moz-linear-gradient(180deg, rgba(0,0,0,0.87156869583771) 10%, rgba(0,0,0,0.695098107602416) 30%, rgba(0,0,0,0) 100%) !important;
+    background: -webkit-linear-gradient(180deg, rgba(0,0,0,0.87156869583771) 10%, rgba(0,0,0,0.695098107602416) 30%, rgba(0,0,0,0) 100%) !important;
+    background: linear-gradient(180deg, rgba(0,0,0,0.87156869583771) 10%, rgba(0,0,0,0.695098107602416) 30%, rgba(0,0,0,0) 100%) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#000000",GradientType=1) !important;
+}

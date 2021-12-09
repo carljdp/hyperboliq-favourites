@@ -5,10 +5,11 @@
 <br><hr>
 ## Development Progress
 
-### Boilerplate & Scaffolding
-  - [x] create-react-app
-  - [ ] react-bootstrap
-  - [ ] react-easy-peasy
+### Bootstrapping / Boilerplate / Scaffolding
+  - [x] Init with `create-react-app`
+  - [x] Add `react-bootstrap`
+  - [ ] Add `react-router`
+  - [ ] Add `react-easy-peasy`
 
 ### Features
   - [ ] // TBD
@@ -29,6 +30,6 @@ As specified in the assessment's requirements:
 ### Initial Decisions
   - Version Control: Git - It's all I've ever known.
   - Branching Model: Trunk based - to force shorter lived branches, for faster iterations.
-  - Language: TypeScript - I'm more comfortable with plain JavaScript, but let's explore a bit.
-  - Editors: I switch between VS Code and Webstorm, but you may use any.
-  
+  - Language: TypeScript - Well, why not?
+  - Editors: VS Code, Webstorm, etc.
+  - Front-end Routing: `react-router`
